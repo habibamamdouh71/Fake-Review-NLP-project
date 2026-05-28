@@ -16,7 +16,7 @@ This project aims to **automatically detect fake product reviews** using Natural
 
 ## 🖥️ Application Preview
 
-![Smart Text Classifier GUI](gui.jpej)
+![Smart Text Classifier GUI](gui.jpeg)
 
 > Interactive web app built with **Streamlit** — classify any review as **Real (OR)** or **Fake (CG)** using 5 different ML models, with confidence scores and probability charts.
 
