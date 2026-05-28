@@ -124,7 +124,7 @@ Fake-Review-NLP-project/
 ├── model_xgboost.pkl
 ├── tfidf_vectorizer.pkl
 ├── label_encoder.pkl
-├── gui.png                       # App screenshot
+├── gui.jpeg                       # App screenshot
 │
 └── README.md
 ```
